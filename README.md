@@ -30,3 +30,13 @@ You can view my live portfolio here:
 - [x] Multi-page Structure
 - [x] Contact Form with Validation
 - [x] GitHub Pages Deployment
+
+## 🧠 Lessons Learnt
+* I learned how to structure a professional portfolio using Semantic HTML.
+* I gained a better understanding of the Git workflow, specifically how to manage branches and remote repositories.
+* I learned the importance of organizing project folders to keep personal tasks separate from academic assignments.
+
+## 🚧 Challenges Faced
+* **Git Configuration:** I initially struggled with linking my local folder to the correct GitHub username (**s7085751-afk**).
+* **Repository Management:** It was challenging to remove accidental files from the repository without deleting them from my computer.
+* **Terminal Navigation:** Learning how to move between subfolders using `cd` commands in the terminal took some practice.
